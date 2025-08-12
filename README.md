@@ -1,4 +1,4 @@
-# VWAP_SessionColorLine_Bands
+# Ads4Dads_VWAP_Bands
 
 A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2σ volume-weighted standard deviation bands. Includes auto-coloring of the VWAP line based on price, full band visibility toggles, session reset, and customizable inputs for scalping, swing trading, and market analysis.
 
@@ -14,10 +14,10 @@ A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2
 1. Open **NinjaTrader 8**.
 2. Go to `New → NinjaScript Editor`.
 3. Right-click the **Indicators** folder → `New Indicator...`.
-4. Name it `VWAP_SessionColorLine_Bands`.
+4. Name it `Ads4Dads_VWAP_Bands`.
 5. Paste the entire `.cs` code from this repository.
 6. Click **Compile**.
-7. Add the indicator to your chart via `Indicators` menu.
+7. Add the indicator to your chart via the `Indicators` menu.
 
 ## Parameters
 | Parameter                | Description |
@@ -33,6 +33,15 @@ A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2
 - **Scalping:** Use VWAP as a trend anchor; fade or follow moves relative to VWAP and bands.
 - **Swing trading:** Combine VWAP with higher-timeframe S/R for confirmation.
 - **Market analysis:** Monitor VWAP as a fair-value reference point.
+
+## Disclaimer
+This indicator is provided for educational and informational purposes only. 
+It is not intended as investment advice, and no guarantee is made regarding 
+profitability or performance. Trading futures, forex, and other financial 
+instruments involves substantial risk of loss and is not suitable for all 
+investors. Always conduct your own research and consult with a licensed 
+financial advisor before making any trading decisions. **Use at your own risk.**
+
 
 ## License
 Created & Designed by: Ads4Dads.com
