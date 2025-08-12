@@ -36,5 +36,3 @@ A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2
 
 ## License
 Created & Designed by: Ads4Dads.com
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
