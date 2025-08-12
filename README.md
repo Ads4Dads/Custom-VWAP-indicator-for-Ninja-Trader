@@ -42,6 +42,4 @@ instruments involves substantial risk of loss and is not suitable for all
 investors. Always conduct your own research and consult with a licensed 
 financial advisor before making any trading decisions. **Use at your own risk.**
 
-
-## License
 Created & Designed by: Ads4Dads.com
