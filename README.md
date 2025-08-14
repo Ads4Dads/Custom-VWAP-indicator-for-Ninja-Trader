@@ -1,6 +1,8 @@
 # Ads4Dads_VWAP_Bands
 
-A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2σ volume-weighted standard deviation bands. Includes auto-coloring of the VWAP line based on price, full band visibility toggles, session reset, and customizable inputs for scalping, swing trading, and market analysis.
+A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2σ volume-weighted standard deviation bands. 
+Includes auto-coloring of the VWAP line based on price, full band visibility toggles, session reset, and customizable inputs for scalping, 
+swing trading, and market analysis.
 
 ## Features
 - **Session-anchored VWAP** that resets each trading session
@@ -42,4 +44,11 @@ instruments involves substantial risk of loss and is not suitable for all
 investors. Always conduct your own research and consult with a licensed 
 financial advisor before making any trading decisions. **Use at your own risk.**
 
-Created & Designed by: Ads4Dads.com
+## About This Indicator
+This indicator was created and designed by the Ads4Dads team and is provided completely free for you to use and enjoy.
+It is part of our "New Skills" series, which is dedicated to helping you learn and master valuable skills including day trading strategies.
+
+To get the most out of this tool, we encourage you to read our related guide, which includes helpful tips, strategies, 
+and examples to support your learning journey at: https://ads4dads.com/new-skills/becoming-a-successful-day-trader-part-4-using-vwap/
+
+Continue your journey on Ads4Dads.com to explore more resources and skill-building tools.
