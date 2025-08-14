@@ -2,8 +2,6 @@
 
 A **session-based VWAP indicator for NinjaTrader 8** with optional ±1σ and ±2σ volume-weighted standard deviation bands. Includes auto-coloring of the VWAP line based on price, full band visibility toggles, session reset, and customizable inputs for scalping, swing trading, and market analysis.
 
-!!-- You must have an active subscription with level 2 data for this indicator to function as designed. --!! (It requires volume data to make calculations)
-
 ## Features
 - **Session-anchored VWAP** that resets each trading session
 - **Auto-colored VWAP line**: green above price, red below price
